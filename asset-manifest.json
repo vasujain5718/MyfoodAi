@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MyfoodAi/static/css/main.55eba331.css",
-    "main.js": "/MyfoodAi/static/js/main.000a6d5b.js",
+    "main.js": "/MyfoodAi/static/js/main.3d5881f0.js",
     "static/js/453.cb120f30.chunk.js": "/MyfoodAi/static/js/453.cb120f30.chunk.js",
     "index.html": "/MyfoodAi/index.html",
     "main.55eba331.css.map": "/MyfoodAi/static/css/main.55eba331.css.map",
-    "main.000a6d5b.js.map": "/MyfoodAi/static/js/main.000a6d5b.js.map",
+    "main.3d5881f0.js.map": "/MyfoodAi/static/js/main.3d5881f0.js.map",
     "453.cb120f30.chunk.js.map": "/MyfoodAi/static/js/453.cb120f30.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.55eba331.css",
-    "static/js/main.000a6d5b.js"
+    "static/js/main.3d5881f0.js"
   ]
 }
